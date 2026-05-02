@@ -17,4 +17,5 @@ A user-friendly *Flask web application* is integrated with the trained model, al
 ##  Technologies Used
 
 Python, TensorFlow, Keras, Flask, NumPy, Pandas, HTML, CSS
+
 This project helps in identifying plant diseases efficiently using image classification techniques and deep learning.
